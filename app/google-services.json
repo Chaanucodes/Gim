@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667579033400",
+    "firebase_url": "https://gims-a57e9.firebaseio.com",
+    "project_id": "gims-a57e9",
+    "storage_bucket": "gims-a57e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667579033400:android:364fab90de5b1aab3f83cd",
+        "android_client_info": {
+          "package_name": "com.example.gim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667579033400-u1ks974m6avfurgp400a28a1d2idcd3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gim",
+            "certificate_hash": "f9268ad8633ad955dde4c4db0487cc2ad656e90a"
+          }
+        },
+        {
+          "client_id": "667579033400-mgmumv5g87d499ilpnor70e4rpoe93mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjqbVGdI15oWoiYzg2md7MxkuNrepv4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667579033400-mgmumv5g87d499ilpnor70e4rpoe93mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
